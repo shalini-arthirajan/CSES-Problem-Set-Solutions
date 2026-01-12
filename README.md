@@ -1,2 +1,2 @@
-# CSES-Problem-Set-Solutions-Python
-Solutions in Python for the CSES Problem Set
+# CSES-Problem-Set-Solutions
+My solutions in Python/C++ for the CSES Problem Set
